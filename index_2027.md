@@ -1,85 +1,63 @@
----
-layout: resume
-title: Brigham Young's Resume
----
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Travis Smith
+Current sudent at Brigham Young University - Idaho studying computer science
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="smi16037@byui.edu">smi16037@byui.edu</a>
+  | <a href="https://www.linkedin.com/in/travis-jon-smith/">LinkedIn Profile</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
-
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2018-2022`
+__Brigham Young University__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Studying Computer Science
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Work Experience
 
-- 4.0 Major GPA
+`August 2013 - April 2016`
+__Spokane Dental__, Spokane, WA
 
+- Worked with sterilzation and prep work for hygiene and assistant
+- Did landscaping and maintainance for the office property
 
-## Related Experience
+`June 2016 - September 2016, March 2020 - September 2020`
+__Downriver Grill__, Host
 
-### Internships
+- Learned how to work with coworkers and customers
+- Observed how a business is ran effectively
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2018 - April 2018`
+__ATC Manufacturing__, Welder
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Learned the process of carbon-fiber parts for planes
+- Engineering and business learning opertunities
 
-### Data Science Lead
+`July 2019 - September 2019`
+__Above and Beneath You LLC__
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Hard manual labor doing carpeting and other types of flooring
+- Worked as the main communication with customers
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`Febuary 2021 - Current Day`
+__OptimalShip__, Regional Account Manager
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Learned sales and how to communicate effectively with business owners
+- Was the top saleman for several months
+- Learned as well how to communicate with team members and keep motivation
 
 
-## Service and Work History
+## Volunteer work
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- __Veteran "Stand Down"__, Sandpoint, ID
 
+- __Service Missionary__, Querétaro Mexico
 
-`2023-2025`
-__Service Missionary__, South Africa
+- __Animal Shelter__, Sandpoint, ID
 
+- __2nd Harvest__, Food donation center
 
+- __Chuch Service__, Organize all men in the church, help the Bishop stay organized
 
 <!-- ### Footer
 
